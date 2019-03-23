@@ -1,4 +1,4 @@
-package com.example.ejercicio3;
+package com.example.labo3ejercicio;
 
 import org.junit.Test;
 
