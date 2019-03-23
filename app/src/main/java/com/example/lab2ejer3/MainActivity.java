@@ -1,4 +1,5 @@
-package com.example.ejercicio3;
+package com.example.lab2ejer3;
+
 
 import android.content.res.Resources;
 import android.graphics.Color;
@@ -10,7 +11,6 @@ import android.widget.Button;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-
     Button btn1, btn2, btn3;
     Random rand = new Random();
 

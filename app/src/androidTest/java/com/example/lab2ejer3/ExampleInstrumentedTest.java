@@ -1,4 +1,4 @@
-package com.example.ejercicio3;
+package com.example.lab2ejer3;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.ejercicio3", appContext.getPackageName());
+        assertEquals("com.example.lab2ejer3", appContext.getPackageName());
     }
 }
